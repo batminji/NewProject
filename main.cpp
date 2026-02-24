@@ -1,8 +1,12 @@
 #include <iostream>
 
-int main()
+int main() // entry point
 {
-	std::cout << 5 * 5 << std::endl;
+	int num{};
+
+	std::cin >> num;
+
+	std::cout << num << "을(를) 입력하셨군요!" << std::endl;
 
 	return 0;
 }
