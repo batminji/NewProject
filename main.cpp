@@ -1,4 +1,4 @@
-#include <iostream>
+ï»¿#include <iostream>
 
 int main() // entry point
 {
@@ -6,7 +6,7 @@ int main() // entry point
 
 	std::cin >> num;
 
-	std::cout << num << "À»(¸¦) ÀÔ·ÂÇÏ¼Ì±º¿ä!" << std::endl;
+	std::cout << num << "ì„(ë¥¼) ìž…ë ¥í•˜ì…¨êµ°ìš”!" << std::endl;
 
 	return 0;
 }
